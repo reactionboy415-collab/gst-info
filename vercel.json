@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/CHIRAGX9/(.*)",
+      "destination": "/api/main"
+    }
+  ]
+}
